@@ -1,0 +1,12 @@
+body {background-color: #F5D69B;}
+h1 {font: italic small-caps bold 32px/2 cursive;
+  color: 	#9932CC;
+  border: thick double #32a1ce;}
+h4 {color: #7E84B9;
+  font: italic 1.2em "Fira Sans", serif;}
+p{background-color: #ABFAAD;
+font: 1.2em "Fira Sans", sans-serif;
+color: #FF2222 }
+img{border: 1rem solid #AEB6BF;}
+li{color: brown}
+a{color: #17202A}
