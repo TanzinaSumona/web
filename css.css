@@ -33,7 +33,7 @@ body {margin: 0;
                     display: block;
                     font-size: 1.5rem
             }
-.navbar-links li:hover {background-color: #386B67;}
+.navbar-links li:hover {background-color: #386B67;} /*when hover over nav button it highlights it*/
 
 h4 {margin: 6px;
     padding: 1rem;
@@ -46,16 +46,18 @@ p {font:"Fira Sans", sans-serif;
 
 img{margin: .4rem;
 border: 1rem solid #594A55};
-figcaption{margin: .2rem}
+figcaption{margin: .2rem}/*caption*/
 
 .column {
   float: left;
   width: 33.33%;
-  padding: 5px;
+  padding: 5px;/*putting the pics sisde by side*/
 }
 
 .row::after {
   content: "";
   clear: both;
-  display: table;
+  display: table;/*putting picks side by side*/
 }
+
+.current {background-color: #4D938D}
